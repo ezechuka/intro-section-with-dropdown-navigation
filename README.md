@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Netlify](https://intro-navigation.netlify.app/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor](https://intro-navigation.netlify.app/)
+- Live Site URL: [Netlify](https://intro-navigation.netlify.app/)
 
 ## My process
 
