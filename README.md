@@ -44,5 +44,5 @@ Users should be able to:
 - JavaScript
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ezechuka)
+- Frontend Mentor - [@ezechuka](https://www.frontendmentor.io/profile/ezechuka)
 - Twitter - [@javalon007](https://www.twitter.com/javalon007)
