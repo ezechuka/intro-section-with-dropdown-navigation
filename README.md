@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FrontendMentor](https://intro-navigation.netlify.app/)
+- Solution URL: [FrontendMentor](https://www.frontendmentor.io/solutions/responsive-navigation-page-with-css-flexbox-pzFJxGLtMO)
 - Live Site URL: [Netlify](https://intro-navigation.netlify.app/)
 
 ## My process
